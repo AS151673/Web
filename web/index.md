@@ -6,6 +6,9 @@ hero:
   name: "镜缘教育科研网 AS151673"
   text: "MirrorEdge Education and Research Network"
   tagline: 由 Chen Xinyu 和 Dai Yangcheng 维护的纯 IPv6 网络
+  image: 
+    src: /favicon.ico
+    alt: logo
   actions:
     - theme: brand
       text: 了解更多
