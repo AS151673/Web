@@ -28,3 +28,25 @@ features:
     details: 由 APNIC 分配的 AS151673 以及 DN42 分配的 AS4242420766。
 ---
 
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, rgb(0,82,217) 30%, #41d1ff);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, rgb(0,82,217) 50%, #47caff 50%);
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+</style>
+

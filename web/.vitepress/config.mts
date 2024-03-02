@@ -4,6 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "镜缘教育科研网 AS151673",
   description: "MirrorEdge Education and Research Network",
+  // 添加 link
+  head:[
+    ['link', { rel: 'icon', type: 'image/vnd.microsoft.icon', href: '/favicon.ico' }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
