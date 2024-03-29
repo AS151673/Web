@@ -24,7 +24,10 @@
 | Country       | Location            | Service                    |
 | ------------- | :-----------:       | ----:                      |
 | US            | Las Vegas           | Buyvm                      |
-| UK            | London              | UPSTREAM INTERNET SERVICES |
+| DE            | Frankfurt           | Xtom V.PS                  |
+| CN            | Hongkong            |                            |
+| CN            | Jinchang            | China Mobile/China Telecom |
+| CN            | Shenzhen            | China Telecom              |   
 
 # Route Propagation
 ![graph from he](https://bgp.he.net/graphs/as151673-ipv6.svg)
