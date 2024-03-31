@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: 'Looking Glass', link: 'https://lg.as151673.mcserverx.com' },
+      { text: 'Looking Glass', link: 'https://lg.menetx.com' },
       { text: 'PeeringDB', link: 'https://www.peeringdb.com/net/33991' }
     ],
 
