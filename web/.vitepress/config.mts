@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "镜缘教育科研网 AS151673",
-  description: "MirrorEdge Education and Research Network",
+  title: "幻缘教育科研网 AS151673",
+  description: "MagicEdge Education and Research Network",
   // 添加 link
   head:[
     ['link', { rel: 'icon', type: 'image/vnd.microsoft.icon', href: '/favicon.ico' }],

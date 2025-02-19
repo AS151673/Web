@@ -25,6 +25,7 @@
 | ------------- | :-----------:       | ----:                      |
 | US            | Las Vegas           | Buyvm 10 Gbgps             |
 | DE            | Frankfurt           | Xtom V.PS 1 Gbps           |
+| DE            | Frankfurt           | PigeonIX VM 1 Gbps         |
 | CN            | Hongkong            | Azure 10 Gbps              |
 | CN            | Jinchang            | China Mobile/China Telecom |
 
